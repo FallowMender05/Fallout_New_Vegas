@@ -25,9 +25,3 @@ DXT1: Used for textures without an alpha channel (interpreted as RGB).
 
 DXT5: Supports RGBA (Red, Green, Blue, Alpha) and is suitable for normal maps.
 Uncompressed: For high-quality textures without lossy compression.
-
-Texture Editing Tools:
-Use software like Photoshop or GIMP to edit DDS files.
-Photoshop: Download the NVIDIA Texture Tools plugin.
-GIMP: Utilize the NVIDIA DDS plugin for GIMP.
-Pay attention to color channels and ensure they match your intended format.
