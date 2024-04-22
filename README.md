@@ -1,6 +1,3 @@
-Vortex Mod Tool (Use only this Mod tool if you have the EPIC game Store Fallout New Vegas). https://www.nexusmods.com/site/mods/1?tab=files
-
-
 This guide was created to assist beginners who have limited knowledge about the .BSA format. It aims to help new modders enjoy a smoother experience without having to spend hours researching and understanding how BSA formats function in Fallout: New Vegas.
 
 Compatible Fallout Modding game versions!
