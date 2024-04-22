@@ -1,7 +1,7 @@
-Vortex Mod Tool (Use only this Mod tool if you have the EPIC game Store Fallout New Vegas).
-https://www.nexusmods.com/site/mods/1?tab=files
+Vortex Mod Tool (Use only this Mod tool if you have the EPIC game Store Fallout New Vegas). https://www.nexusmods.com/site/mods/1?tab=files
 
 
+This guide was created to assist beginners who have limited knowledge about the .BSA format. It aims to help new modders enjoy a smoother experience without having to spend hours researching and understanding how BSA formats function in Fallout: New Vegas.
 
 Compatible Fallout Modding game versions!
 
@@ -23,6 +23,7 @@ To understand how folders are placed within the BSA, use a (BSA and BSA2) file v
 1. Fallout - Textures
 2. textures
 3. Please avoid restructuring the file format with renames, as doing so may disrupt its position within the other BSA files. As it could prevent the .DDS file from being read at all due to changes in the texture file mapping within the other .bsa folders as they depend on the file name locations.
+4. Repackage the folders back into the .BSA format without making changes to the file name at all and remove or delete old .BSA…
 
 Useful tool list for mod starters
 
